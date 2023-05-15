@@ -1,0 +1,46 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\bin\Debug\završnaVježba.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\bin\Debug\završnaVježba.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\bin\Debug\završnaVježba.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\završnaVježba\obj\Debug\završnaVježba.pdb
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\bin\Debug\završnaVježba.exe.config
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\bin\Debug\završnaVježba.exe
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\bin\Debug\završnaVježba.pdb
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.Form1.resources
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.narudzbaForm.resources
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.exe
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.pdb
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.odabir.resources
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.odabirStola.resources
+C:\Users\Korisnik\Desktop\zavr-naApp-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.vrstaPica.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\bin\Debug\završnaVježba.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\bin\Debug\završnaVježba.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\bin\Debug\završnaVježba.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.Form1.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.narudzbaForm.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.odabir.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.odabirStola.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.Properties.Resources.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.vrstaPica.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.bezalkPica.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.alkPica.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.gaziranaPica.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.hladJela.resources
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\završnaVježba\zavrsnaApp2-main\završnaVježba\završnaVježba\obj\Debug\završnaVježba.juhe.resources
